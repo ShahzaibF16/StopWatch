@@ -1,0 +1,37 @@
+body {
+    text-align: center;
+    
+    background-color: #011000 !important;
+}
+.stopWatch{
+    margin:15px 5px 50px 5px !important;
+    text-shadow: 3px 2px 3px silver ;
+}
+h2{
+    color: #dcdcdc;
+  
+}
+.display {
+    margin-top: 50px !important;
+}
+h1 {
+    color:#696969;
+    display: inline-block;
+    width: 100px;
+    text-shadow: 2px 2px 2px #696969 ;
+}
+.btnAll{
+    margin:15px 5px 0px 5px !important;
+}
+button{
+    color: whitesmoke;
+    background: skyblue;
+    border: none;
+    width: 100px;
+    height: 40px;
+    outline: none;
+    
+}
+#min,#sec,#lap1,#lap2{
+    font-size: 5em;
+}
